@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Simple_router/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.961538" vertical-offset="379" max-vertical-offset="850">
-              <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.2600536" vertical-offset="277" max-vertical-offset="901">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -85,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Router.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Router.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Simple_router/system/router/Router.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44504023" vertical-offset="922" max-vertical-offset="1513">
+            <state vertical-scroll-proportion="-10.307693" vertical-offset="820" max-vertical-offset="1513">
               <caret line="64" column="58" selection-start-line="64" selection-start-column="58" selection-end-line="64" selection-end-column="58" />
               <folding />
             </state>
@@ -116,11 +116,11 @@
         <option value="$PROJECT_DIR$/system/router/Route.php" />
         <option value="$PROJECT_DIR$/system/router/Router.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/../Simple_router/index.php" />
         <option value="$PROJECT_DIR$/../Simple_router/.htaccess" />
         <option value="$PROJECT_DIR$/../Simple_router/system/router/Route.php" />
         <option value="$PROJECT_DIR$/../Simple_router/system/router/Request.php" />
         <option value="$PROJECT_DIR$/../Simple_router/system/router/Router.php" />
+        <option value="$PROJECT_DIR$/../Simple_router/index.php" />
       </list>
     </option>
   </component>
@@ -357,14 +357,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Simple_router/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.961538" vertical-offset="379" max-vertical-offset="850">
-          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Simple_router/system/router/Request.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.9615384" vertical-offset="663" max-vertical-offset="1462">
@@ -375,8 +367,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Simple_router/system/router/Router.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44504023" vertical-offset="922" max-vertical-offset="1513">
+        <state vertical-scroll-proportion="-10.307693" vertical-offset="820" max-vertical-offset="1513">
           <caret line="64" column="58" selection-start-line="64" selection-start-column="58" selection-end-line="64" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Simple_router/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2600536" vertical-offset="277" max-vertical-offset="901">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding />
         </state>
       </provider>

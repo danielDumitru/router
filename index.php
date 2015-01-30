@@ -19,6 +19,9 @@ require_once SYSTEM_PATH."ClassLoader.php";
 try{
     ClassLoader::init([SYSTEM_PATH]);
     $route = Router::init();
+    /**
+     * /sites/Simple_router/ este folderul din htdocs unde se afla proiectul , mai bine zis doc root
+     */
     // url(ruta) de genul /sites/Simple_router/acasa/test/112 sau /sites/Simple_router/acasa/test/48563
     //daca se potriveste url-ul acceseaza metoda start1 a clasei index1
     $route->addRoute('get', 'index1@start', '/sites/Simple_router/acasa/test/:numeric');
